@@ -1,0 +1,26 @@
+*{
+    margin: auto;
+     max-width: 1000px;  
+     background-color: rgb(179, 208, 245);  
+     
+}
+
+.agauche {
+    width: 45%;
+    height: 100%;
+    float: left;
+    font-size: larger;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.adroite
+{
+    width: 45%;
+    height: 100%;
+    float: right;
+    margin-top: 20%;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
