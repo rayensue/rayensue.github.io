@@ -1,0 +1,63 @@
+<htm>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style_cv.css"/>
+    <title>RN</title>
+    <h1>CV de Alex des Totally Spies</h1>
+</head>
+<body>
+<div class="entete">
+    <img src="entetefruit.jpg">
+</div>
+<div class="boite1">
+<div class="agauche">
+    <img src="photogauche.jpg">
+    <br>
+    <br>
+    <h2>Informations</h2>
+    <br>
+    <ul>
+    <li>Adresse - 42 Wallaby Way, Sydney</li>
+    <li>Numéro - 06.10.09.96.93</li>
+    <li>E-mail - iamsofly@hotmail.fr</li>
+    <li>
+        <a href="https://totallyspies.fandom.com/wiki/WOOHP" target="_blank"> Site Internet</a> </li>
+    </ul>
+</div>
+<div class="adroite">
+<h2>Experiences</h2>
+<br>
+<ul>
+    <li>Publicis Re:source - Juriste IP/IT (alternance)</li>
+    <li>CPI Delucenay & Staeffen - Paralegal marques</li>
+    <li>ACBM Avocats - Juriste en Propriété Intellectuelle (stage)</li>
+</ul>
+<br>
+<br>
+<h2>Diplômes</h2>
+<br>
+<ul>
+    <li>2018 - Maitrise en Droit des affaires</li>
+    <li>2017 - Licence générale en Droit privé</li>
+    <li>2014 - Baccalauréat mention Économique et Social</li>
+</ul>
+<br>
+<br>
+<h2>Divers</h2>
+<br>
+<ul>
+    <li>Compétences informatiques : Pack Office 365, Programmation (langages C, SQL, HTML)</li>
+    <li>Langues: Anglais, Espagnol, Lingala, Chinois</li>
+    <li>Activités : Sport, Voyage, Lecture, Cuisine, Musique</li>
+</ul>
+
+</div>
+</div>
+<div class="enbas">
+
+
+
+</div>
+</body>
+
+</html>
