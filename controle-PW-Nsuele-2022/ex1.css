@@ -9,6 +9,54 @@
      border-color: black;
      width: 80%;
  }
+
+ .haut h1 {
+    background-color: rgba(255, 255, 255, 0.913);
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+ }
+
+ .haut p {
+     text-align: justify;
+ }
+
+ .bas h1 {
+     text-align: right;
+     font-style: italic;
+ }
+ .bas p {
+    
+     border-right: solid 1px black;
+     border-left: solid 1px black;
+     width: 75%;
+    height: 25%;
+     text-align: justify;
+     
+ }
+
+ .droite h1 {
+text-align: center;
+border-style: outset;
+border-color: black;
+width: 80%;
+ }
+
+ .enbas h1 {
+     background-color: rgb(207, 205, 205);
+     margin-left: 4%;
+     margin-right: 4%;
+     text-align: center;
+     font-style: italic;
+ }
+
+ .enbas p {
+     text-align: center;
+     margin-left: 25%;
+    margin-right: 25%;
+
+ }
+
  .gauche { 
     width: 22%;
     height: 50%;
@@ -29,6 +77,14 @@
     margin-right: 20%;
 }
 
+.haut {
+    background-color: rgba(216, 211, 211, 0.757);
+}
+
+.bas {
+    background-color: rgb(216, 211, 211, 0.757);
+}
+
 .droite {
 margin-left: 82%;
 width: 30%;
@@ -36,4 +92,11 @@ border-top: black 2px solid;
 border-left: rgb(255, 255, 255) 2px solid;
 border-bottom: black 2px solid;
 border-right: rgb(9, 9, 9) 2px solid;
+}
+
+.enbas {
+    background-color: grey;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    
 }
